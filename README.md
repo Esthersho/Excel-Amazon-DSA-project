@@ -64,6 +64,9 @@ From the above, some key insights generated include:
     2. Pivot table analysis
     3. calculated columns
     4. Excel dashboard
+ 
+
+  
   
 
 ###Contributor
