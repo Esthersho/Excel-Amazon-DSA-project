@@ -17,7 +17,10 @@ The primary data source used for this analysis was Amazon case study.xlsx. This 
 Microsoft Excel, version 2505 was used for the following:
 
 - Data cleaning
+  1. Data manipultion
+  2. Data munching
 -  Creating calculated tables
+  1. Using excel formula
 -  Creating pivot tables
 -  Creating a dashboard.
 
