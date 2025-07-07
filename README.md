@@ -30,14 +30,18 @@ In the initial phase of the Data cleaning and prparation, the following actions 
 
 1. Data loading and inspection.
 2. Missing variables in the data was identified and handled.
-3. Datawas cleaned and formatted.
+3. Data was cleaned and formatted.
 
 ### Exploratory Data Analysis
 
 Data exploration was used to answer questions such as:
 
 1. How the rating relate to the level of discount of the products.
-2. Categories that have products with the highest discounts
+2. Categories that have products with the highest discounts.
+
+### Data Analysis
+
+
 Installations
 Usage
 Project structure
