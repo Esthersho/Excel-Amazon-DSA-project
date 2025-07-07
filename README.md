@@ -16,10 +16,10 @@ The primary data source used for this analysis was Amazon case study.xlsx. This 
 
 Microsoft Excel, version 2505 was used for the following:
 
-- data cleaning
--  creating calculated tables
--   creating pivot tables
--   creating a dashboard.
+- Data cleaning
+-  Creating calculated tables
+-  Creating pivot tables
+-  Creating a dashboard.
 
 Installations
 Usage
