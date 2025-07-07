@@ -24,6 +24,20 @@ Microsoft Excel [Download Here](https://www.microsoft.com/en-us/microsoft-365/do
 -  Creating pivot tables
 -  Creating a dashboard.
 
+### Data Cleaning and Preparation
+
+In the initial phase of the Data cleaning and prparation, the following actions were performed:
+
+1. Data loading and inspection.
+2. Missing variables in the data was identified and handled.
+3. Datawas cleaned and formatted.
+
+### Exploratory Data Analysis
+
+Data exploration was used to answer questions such as:
+
+1. How the rating relate to the level of discount of the products.
+2. Categories that have products with the highest discounts
 Installations
 Usage
 Project structure
