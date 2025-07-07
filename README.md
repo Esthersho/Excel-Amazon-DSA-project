@@ -41,6 +41,7 @@ Data exploration was used to answer questions such as:
 
 ### Data Analysis
 
+There were 14 questions that needed to be answered in the excel project. These were answered through the creation of calculated columns for some andthe use of pivot tables.
 
 Installations
 Usage
