@@ -11,6 +11,16 @@ This Data Analysis Project aims to analyse product and customer review data to g
 ### Data Sources
 
 The primary data source used for this analysis was Amazon case study.xlsx. This was sent by the DSA team to be used in completing the project to be submitted. It was uploaded to the Canvas site of each student and made available for download.
+
+### Tools used
+
+Microsoft Excel, version 2505 was used for the following:
+
+- data cleaning
+-  creating calculated tables
+-   creating pivot tables
+-   creating a dashboard.
+
 Installations
 Usage
 Project structure
