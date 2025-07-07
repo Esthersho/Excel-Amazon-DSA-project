@@ -65,11 +65,7 @@ From the above, some key insights generated include:
     3. calculated columns
     4. Excel dashboard
  
-
-  
-  
-
-###Contributor
+### Contributor
 
 Shonubi Esther
 
