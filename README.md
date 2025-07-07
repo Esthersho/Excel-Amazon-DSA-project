@@ -20,7 +20,7 @@ Microsoft Excel, version 2505 was used for the following:
   1. Data manipultion
   2. Data munching
 -  Creating calculated tables
-  1. Using excel formula
+   1. Using excel formula
 -  Creating pivot tables
 -  Creating a dashboard.
 
