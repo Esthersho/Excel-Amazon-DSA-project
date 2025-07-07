@@ -8,7 +8,9 @@ Throughout the three-month program, i have learnt a lot on the use of Microsoft 
 ### Project Overview
 This Data Analysis Project aims to analyse product and customer review data to generate insights that can guide product improvement, marketing strategies, and customer engagement. 
 
-Data Sources
+### Data Sources
+
+The primary data source used for this analysis was Amazon case study.xlsx. This was sent by the DSA team to be used in completing the project to be submitted. It was uploaded to the Canvas site of each student and made available for download.
 Installations
 Usage
 Project structure
