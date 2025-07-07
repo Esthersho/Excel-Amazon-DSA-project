@@ -14,7 +14,7 @@ The primary data source used for this analysis was Amazon case study.xlsx. This 
 
 ### Tools used
 
-Microsoft Excel, version 2505 was used for the following:
+Microsoft Excel [Download Here](https://www.microsoft.com/en-us/microsoft-365/download-office?msockid=0e2eb74be29567e13adfa24ce38566b), version 2505 was used for the following:
 
 - Data cleaning
   1. Data manipultion
