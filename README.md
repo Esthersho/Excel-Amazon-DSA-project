@@ -55,15 +55,23 @@ From the above, some key insights generated include:
 - Home Improveement ctegory had the highest discount percentage.
 - Electronics category had the most number of products and reviews.
 - Most products were rated 4.1
+- Most products have prices > ₹500.
 
-Installations
-Usage
-Project structure
-Analysis
-Result
-Recommendation
-Contribution
-License
+### Project Files
+
+- Amazon case study: This contains
+    1. Cleaned data
+    2. Pivot table analysis
+    3. calculated columns
+    4. Excel dashboard
+  
+
+###Contributor
+
+Shonubi Esther
+
+Data Analyst in training
+
 
 
 
