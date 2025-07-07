@@ -8,6 +8,15 @@ Throughout the three-month program, i have learnt a lot on the use of Microsoft 
 ### Project Overview
 This Data Analysis Project aims to analyse product and customer review data to generate insights that can guide product improvement, marketing strategies, and customer engagement. 
 
+Data Sources
+Installations
+Usage
+Project structure
+Analysis
+Result
+Recommendation
+Contribution
+License
 
 
 
