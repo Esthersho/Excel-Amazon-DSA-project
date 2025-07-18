@@ -1,7 +1,7 @@
 # Excel-Amazon-DSA-project
-This contains a detailed step-by-step analysis using excel, a project organized by Digital skillup Africa in partial fulfillmrnt of the learning requirements.
+This contains a detailed step-by-step analysis using excel, a project organized by Digital skillup Africa in partial fulfillment of the learning requirements.
 
-Throughout the three-month program, i have learnt a lot on the use of Microsoft Excel, SQL and PowerBI to perform various analytical and visualization operations on datasets. i also learnt about portfoli builing to showcase the projects worked upon.
+Throughout the three-month program, i have learnt a lot on the use of Microsoft Excel, SQL and PowerBI to perform various analytical and visualization operations on datasets. I also learnt about portfolio builing to showcase the projects worked upon.
 
 ## Project Topic: Amazon Product Review Analysis 
 
@@ -14,7 +14,7 @@ The primary data source used for this analysis was Amazon case study.xlsx. This 
 
 ### Dataset Summary
 
-- Total records: 1465
+- Total records: 1351
 - Total columns: 16
 - Key fields: Product Name, Category, Actual price, Discount percentage, Rating, Rating count.
 
@@ -23,7 +23,7 @@ The primary data source used for this analysis was Amazon case study.xlsx. This 
 Microsoft Excel [Download Here](https://www.microsoft.com/en-us/microsoft-365/download-office?msockid=0e2eb74be29567e13adfa24ce38566b), version 2505 was used for the following:
 
 - Data cleaning
-  1. Data manipultion
+  1. Data manipulation
   2. Data munching
 -  Creating calculated tables
    1. Using excel formula
@@ -52,7 +52,7 @@ There were 14 questions that needed to be answered in the excel project. These w
 
 From the above, some key insights generated include:
 
-- Home Improveement ctegory had the highest discount percentage.
+- Home Improveement category had the highest discount percentage.
 - Electronics category had the most number of products and reviews.
 - Most products were rated 4.1
 - Most products have prices > ₹500.
